@@ -3,7 +3,7 @@ numpy==1.23.1
 matplotlib==3.5.2
 cartopy==0.21.0
 pandas==1.4.3
-geos
+geos==3.11.1
 fiona==1.8.22
 shapely==1.8.5.post1
 pyproj==3.3.1
