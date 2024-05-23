@@ -7,4 +7,4 @@ sudo apt-get install -y gdal-bin
 sudo apt-get install -y libgdal-dev
 
 # Use conda to install cartopy and its dependencies
-conda install -c conda-forge cartopy
+conda install -c conda-forge cartopy matplotlib==3.6.0
