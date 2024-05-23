@@ -2,7 +2,7 @@
 
 This repository contains tutorials for HEAT.
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/veeshan-narinesingh/HEAT_TUTORIALS/HEAD)
 
 ## Description
 
